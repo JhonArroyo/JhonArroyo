@@ -1,7 +1,7 @@
 ```fsharp
 let Whitelotus = {
     real_Name = " Jhonatan A."
-    favs_Code = ["Php"; "F#"; "C#"; "Python"]
+    favs_Lang = ["Php"; "F#"; "C#"; "Python"]
     Tools = ["Laravel"; "Node"; "Flask"; "Docker"; "Git"]
     Architecture = ["APIs"; "Middleware"]
     Present = "I am learning new features about Laravel 10.x"
